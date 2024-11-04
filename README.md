@@ -20,6 +20,16 @@ https://autolinker-tdy7.onrender.com/
   - `pandas`: For handling Excel files
   - `Flask`: For creating the web application
 
+ 
+  - ## Excel Format Should be in This Format
+
+| URL | Discription     |       
+| :-------- | :------- |
+| `https://www.example.com`      | `example` |
+| `https://www.example2.com`      | `example2` |
+| `https://www.example3.com`      | `example3` |
+| `https://www.example4.com`      | `example4` |
+
 ## Installation
 
 ### Prerequisites
